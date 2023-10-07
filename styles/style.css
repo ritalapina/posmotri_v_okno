@@ -1,4 +1,4 @@
-/* Global layout */
+/* Global styles */
 
 *,
 *::before,
@@ -60,8 +60,6 @@ ol {
   clip-path: inset(50%);
   white-space: nowrap;
 }
-
-/* Result */
 
 .result {
   display: flex;
@@ -295,8 +293,8 @@ ol {
   font-family: Oswald, sans-serif;
   font-weight: 700;
   font-size: 75px;
-  line-height: 70.5px;
   text-transform: uppercase;
+  line-height: 70.5px;
 }
 
 .content__accent {
